@@ -1,0 +1,169 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "5d98d35b-d8d7-4beb-aea3-05f299c63732",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "No absen",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "5560788f-6372-4877-ae76-a2fbb0a00636",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Nama",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      },
+      {
+        "id": "46c712b3-c15d-4680-acad-6ab141fc926e",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Kelas",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null
+      }
+    ],
+    "rows": [
+      {
+        "id": "2f7e2e1a-79ae-4ab8-9d6c-4ddd4de1a2c2",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2024-02-25T09:20:59.908Z",
+        "lastEditedDateTime": "2024-02-25T09:22:22.674Z",
+        "cells": [
+          {
+            "id": "024603d8-b392-48ab-a3f5-23fddec03646",
+            "columnId": "5d98d35b-d8d7-4beb-aea3-05f299c63732",
+            "content": "16",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "96c72b58-41bb-48a4-b3d3-dee2e48750de",
+            "columnId": "5560788f-6372-4877-ae76-a2fbb0a00636",
+            "content": "Taufik",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e2c05184-9014-421a-b98e-4d75228c3f8f",
+            "columnId": "46c712b3-c15d-4680-acad-6ab141fc926e",
+            "content": "XI RPL",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b3c324a0-bc45-4d6d-b580-e18c162d59c4",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2024-02-25T09:21:04.687Z",
+        "lastEditedDateTime": "2024-02-25T09:22:31.286Z",
+        "cells": [
+          {
+            "id": "ed112afb-540c-495d-ab8e-0f8671925296",
+            "columnId": "5d98d35b-d8d7-4beb-aea3-05f299c63732",
+            "content": "17",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f607a375-2060-4d12-8203-3a1cc15d58ba",
+            "columnId": "5560788f-6372-4877-ae76-a2fbb0a00636",
+            "content": "Adiguna",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f61a822d-237e-466b-bbfe-5f846f82d4ba",
+            "columnId": "46c712b3-c15d-4680-acad-6ab141fc926e",
+            "content": "XI RPL",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "75e1fedf-d03c-4bd7-bb91-cc45b74863be",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2024-02-25T09:22:04.068Z",
+        "lastEditedDateTime": "2024-02-25T09:22:36.785Z",
+        "cells": [
+          {
+            "id": "5b1546d6-26ce-4a85-b7f0-a3261e07f9a3",
+            "columnId": "5d98d35b-d8d7-4beb-aea3-05f299c63732",
+            "content": "18",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b5074a9c-2008-4d45-bcf1-f166e01e9802",
+            "columnId": "5560788f-6372-4877-ae76-a2fbb0a00636",
+            "content": "Jordan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6fb64a8f-98e0-4ff8-ab85-1325afe052b3",
+            "columnId": "46c712b3-c15d-4680-acad-6ab141fc926e",
+            "content": "XI RPL",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.15.11"
+}

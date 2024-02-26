@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "35c70cea4c1ae05c",
+    "type": "split",
+    "children": [
+      {
+        "id": "207a61b50b378936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea1116b2ea9a88e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe3cd0efa0bc1216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Pengenalan Html.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3dcbbbb126af1587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Pengenalan Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "291a86de4ee5c688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Instalasi dan query awal database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1623e237ad32b0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7115c9c95cf6721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Instalasi dan query awal database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c85d61dbe7e78ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/Pengenalan Html.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a22a0fe4d11205e0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "882b67bd4eb8434d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9215857ee47a0c97",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "90760cf301004f44",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0cf639f7c3823be4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a3e72f7d20fb7e26",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d065744a07cfa5d4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Basis data/Instalasi dan query awal database.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "16d7f3de5f0ef724",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Basis data/Instalasi dan query awal database.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8d68783a14bf6bc6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Basis data/Instalasi dan query awal database.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create loom": false
+    }
+  },
+  "active": "882b67bd4eb8434d",
+  "lastOpenFiles": [
+    "HTML/Deskripsi Html,CSS,Java script.md",
+    "Html.md",
+    "HTML/Kesimpulan video.md",
+    "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
+    "Basis data/Instalasi dan query awal database.md",
+    "HTML/Pengenalan OBSIDIAN.md",
+    "Pengenalan Obsidian 1.md",
+    "HTML/Pengenalan Html.md",
+    "Screenshot_2024-02-25-22-32-40-42_84d3000e3f4017145260f7618db1d683.jpg",
+    "Screenshot_2024-02-25-13-56-36-68_84d3000e3f4017145260f7618db1d683 1.jpg",
+    "Asset/creenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg.md",
+    "Asset",
+    "Screenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg",
+    "Basis data/Asset/Screenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg",
+    "IMG_20240225_145522.jpg",
+    "Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
+    "Basis data/Asset/Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
+    "Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
+    "Basis data/Asset/Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
+    "Basis data/Pengenalan Database.md",
+    "IMG.md",
+    "Basis data/Select lanjutan.md",
+    "Basis data/Asset/IMG-1.jpg",
+    "Untitled.loom",
+    "Basis data/Untitled.md",
+    "IMG-20240117-WA0015.jpg.md",
+    "Assets/IMG_20240218_175520.md",
+    "Assets/Screenshot_2024-02-18-17-51-51-59_e3c1f266f17b29c7b40472751f031275.md",
+    "Assets/Screenshot_2024-02-18-18-49-12-12_e3c1f266f17b29c7b40472751f031275.md",
+    "Assets",
+    "IMG_20240218_145202.md",
+    "IMG_20240218_145106.md",
+    "CSS/Pengenalan CSS.md",
+    "Assets.md",
+    "![[IMG_20240218_183621.md",
+    "Assets/instagram.jpg.md",
+    "Untitled 1.md",
+    "IMG_20240206_143108.jpg.md",
+    "Pengenalan CSS/Percobaan kedua.md",
+    "CSS",
+    "Spaces/Pengenalan CSS",
+    "Basis data",
+    "Spaces/Home",
+    "Spaces",
+    "HTML"
+  ]
+}
