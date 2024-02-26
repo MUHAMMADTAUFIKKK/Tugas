@@ -42,7 +42,7 @@ Penjelasan:
 
 Apapun tag yang berada di Tag pembuka `<body>`sampai tag penutup `</body>`akan tampil di web browser
 ### Contoh tampilan di web!
-![[IMG_20240218_135230.jpg]]
+![gmbar](Assets/IMG_20240218_135230.jpg)
 
 # Anatomi Elemen Html
 **Elemen** adalah suatu kesatuan dan sebuah Tag yang dimulai dari ==Tag pembuka== hingga ke ==Tag penutup==. **ELEMEN** HTML secara garis besar terdiri atas tiga bagian yaitu **Tag pembuka**, **konten/Isi tag**, dan **tag penutup**

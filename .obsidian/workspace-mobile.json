@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html.md",
+                "file": "Struktur html.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Html.md",
+            "file": "Struktur html.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Html.md",
+            "file": "Struktur html.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Html.md"
+            "file": "Struktur html.md"
           }
         }
       }
@@ -197,7 +197,7 @@
     "IMG_20240218_145202.md",
     "IMG_20240218_145053.jpg",
     "IMG_20240218_145106.md",
-    "Html.md",
+    "Struktur html.md",
     "IMG.md",
     "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
     "Spaces/Assets/Untitled",
