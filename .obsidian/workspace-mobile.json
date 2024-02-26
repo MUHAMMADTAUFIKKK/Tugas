@@ -69,7 +69,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/Instalasi dan query awal database.md",
+                "file": "Html.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d46ebffb04201e9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Instalasi dan query awal database.md",
+            "file": "Basis data.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Instalasi dan query awal database.md",
+            "file": "Basis data.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -183,7 +195,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Instalasi dan query awal database.md"
+            "file": "Basis data.md"
           }
         }
       }
@@ -203,14 +215,17 @@
   },
   "active": "882b67bd4eb8434d",
   "lastOpenFiles": [
-    "HTML/Deskripsi Html,CSS,Java script.md",
+    "Basis data/Select lanjutan.md",
+    "Basis data/Pengenalan Database.md",
+    "Basis data/Instalasi dan query awal database.md",
+    "Basis data.md",
     "Html.md",
+    "HTML/Pengenalan Html.md",
+    "HTML/Pengenalan OBSIDIAN.md",
+    "HTML/Deskripsi Html,CSS,Java script.md",
     "HTML/Kesimpulan video.md",
     "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
-    "Basis data/Instalasi dan query awal database.md",
-    "HTML/Pengenalan OBSIDIAN.md",
     "Pengenalan Obsidian 1.md",
-    "HTML/Pengenalan Html.md",
     "Screenshot_2024-02-25-22-32-40-42_84d3000e3f4017145260f7618db1d683.jpg",
     "Screenshot_2024-02-25-13-56-36-68_84d3000e3f4017145260f7618db1d683 1.jpg",
     "Asset/creenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg.md",
@@ -222,9 +237,7 @@
     "Basis data/Asset/Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
     "Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
     "Basis data/Asset/Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
-    "Basis data/Pengenalan Database.md",
     "IMG.md",
-    "Basis data/Select lanjutan.md",
     "Basis data/Asset/IMG-1.jpg",
     "Untitled.loom",
     "Basis data/Untitled.md",
@@ -241,7 +254,6 @@
     "Assets/instagram.jpg.md",
     "Untitled 1.md",
     "IMG_20240206_143108.jpg.md",
-    "Pengenalan CSS/Percobaan kedua.md",
     "CSS",
     "Spaces/Pengenalan CSS",
     "Basis data",
