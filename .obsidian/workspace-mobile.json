@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IMG-20240117-WA0015.jpg.md",
+                "file": "Html.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IMG-20240117-WA0015.jpg.md",
+            "file": "Html.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IMG-20240117-WA0015.jpg.md",
+            "file": "Html.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "IMG-20240117-WA0015.jpg.md"
+            "file": "Html.md"
           }
         }
       }
@@ -191,6 +191,9 @@
   },
   "active": "d7115c9c95cf6721",
   "lastOpenFiles": [
+    "IMG-20240117-WA0015.jpg.md",
+    "Assets/instagram.jpg",
+    "Asset/IMG_20240220_151319.jpg",
     "IMG_20240218_145202.md",
     "IMG_20240218_145053.jpg",
     "IMG_20240218_145106.md",
@@ -217,11 +220,8 @@
     "IMG_20240225_145522.jpg",
     "Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
     "Spaces/Asset/Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
-    "Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
-    "Spaces/Asset/Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
     "Untitled.loom",
     "Basis data/Untitled.md",
-    "IMG-20240117-WA0015.jpg.md",
     "Assets/IMG_20240218_175520.md",
     "Assets/Screenshot_2024-02-18-17-51-51-59_e3c1f266f17b29c7b40472751f031275.md",
     "Assets/Screenshot_2024-02-18-18-49-12-12_e3c1f266f17b29c7b40472751f031275.md",
