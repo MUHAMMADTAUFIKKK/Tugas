@@ -169,7 +169,7 @@ HTML juga mempunyai tag khusus untuk membuat komentar di HTML kita menggunakan a
 <p>ini bukan komentar,akan tampil di browser</p>
 ```
 #### Hasil Program
-![gambar_komntar](IMG_20240218_145248.jpg)
+![gambar_komntar](Assets/IMG_20240218_145248.jpg)
 
 ## List
 List adalah fungsi dalam HTML yang di gunakan untuk menampilkan daftar dari sesuatu dalam HTML,tag list terdiri dari 2 jenis `<ol>` **Ordered list** (berurutan) dan `<ul>` **Unordered list** (tidak berurutan) ordered list akan di tampilkan dengan angka atau huruf sedangkan Unordered list dengan bulatan atau kotak ataupun simbol lainnya

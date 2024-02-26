@@ -52,36 +52,12 @@
             }
           },
           {
-            "id": "1623e237ad32b0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7115c9c95cf6721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Html.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d46ebffb04201e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basis data.md",
+                "file": "IMG-20240117-WA0015.jpg.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data.md",
+            "file": "IMG-20240117-WA0015.jpg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data.md",
+            "file": "IMG-20240117-WA0015.jpg.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -195,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data.md"
+            "file": "IMG-20240117-WA0015.jpg.md"
           }
         }
       }
@@ -213,32 +189,36 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "882b67bd4eb8434d",
+  "active": "d7115c9c95cf6721",
   "lastOpenFiles": [
+    "IMG_20240218_145202.md",
+    "IMG_20240218_145053.jpg",
+    "IMG_20240218_145106.md",
+    "Html.md",
+    "IMG.md",
+    "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
+    "Spaces/Assets/Untitled",
+    "Assets",
+    "Basis data.md",
     "Basis data/Select lanjutan.md",
     "Basis data/Pengenalan Database.md",
     "Basis data/Instalasi dan query awal database.md",
-    "Basis data.md",
-    "Html.md",
     "HTML/Pengenalan Html.md",
     "HTML/Pengenalan OBSIDIAN.md",
     "HTML/Deskripsi Html,CSS,Java script.md",
     "HTML/Kesimpulan video.md",
-    "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
     "Pengenalan Obsidian 1.md",
     "Screenshot_2024-02-25-22-32-40-42_84d3000e3f4017145260f7618db1d683.jpg",
     "Screenshot_2024-02-25-13-56-36-68_84d3000e3f4017145260f7618db1d683 1.jpg",
     "Asset/creenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg.md",
     "Asset",
     "Screenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg",
-    "Basis data/Asset/Screenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg",
+    "Spaces/Asset/Screenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg",
     "IMG_20240225_145522.jpg",
     "Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
-    "Basis data/Asset/Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
+    "Spaces/Asset/Screenshot_2024-02-25-21-53-56-04_84d3000e3f4017145260f7618db1d683.jpg",
     "Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
-    "Basis data/Asset/Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
-    "IMG.md",
-    "Basis data/Asset/IMG-1.jpg",
+    "Spaces/Asset/Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg",
     "Untitled.loom",
     "Basis data/Untitled.md",
     "IMG-20240117-WA0015.jpg.md",
@@ -246,19 +226,15 @@
     "Assets/Screenshot_2024-02-18-17-51-51-59_e3c1f266f17b29c7b40472751f031275.md",
     "Assets/Screenshot_2024-02-18-18-49-12-12_e3c1f266f17b29c7b40472751f031275.md",
     "Assets",
-    "IMG_20240218_145202.md",
-    "IMG_20240218_145106.md",
     "CSS/Pengenalan CSS.md",
     "Assets.md",
     "![[IMG_20240218_183621.md",
     "Assets/instagram.jpg.md",
     "Untitled 1.md",
-    "IMG_20240206_143108.jpg.md",
     "CSS",
     "Spaces/Pengenalan CSS",
     "Basis data",
     "Spaces/Home",
-    "Spaces",
-    "HTML"
+    "Spaces"
   ]
 }
