@@ -6,7 +6,6 @@ Definisi web Definisi dari web ialah...
 Sejarah web Web bermula dari...
 Protokol web Web memiliki berbagai protokol...
 Tentang Web Web memiliki berbagai kegunaan...
-Teman Kelompok
 
 >[!faq]- prend
 >Taufik
@@ -17,6 +16,8 @@ Teman Kelompok
 >ahsan
 
 
+>[✓] Ceklis
+>
 ### HTML
 html dimulai dengan tag <html> dan di akhiri dengan tag </html>
 

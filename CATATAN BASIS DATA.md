@@ -113,7 +113,7 @@ drop database [nama_database];
 drop database xi_rpl_1;
 ```
 ### Hasil
-![[Screenshot_2024-02-20-13-33-17-74_84d3000e3f4017145260f7618db1d683.jpg]]
+![gmbar](Asset/Screenshot_2024-02-20-13-33-17-74_84d3000e3f4017145260f7618db1d683.jpg)
 ### Analisis
 Kode tersebut berfungsi untuk menghapus sebuah database yg telah dibuat
 ### kesimpulan
@@ -334,7 +334,7 @@ insert into [nama_tabel] values(data 1,"data 2","data 3",data 4);
 insert into Pelanggan values(1,"Muh","taufik",088705872069);
 ```
 ## Hasil 
-![[IMG_20240225_134814 1.jpg]]
+![gmbr](Asset/IMG_20240225_134814.jpg)
 ### Analisis
 Perintah INSERT INTO digunakan untuk menambahkan data ke dalam tabel yang telah ditentukan.Data yang dimasukkan melibatkan informasi seperti ID pelanggan (1), nama_depan ("Muh"), nama_belakang ("taufik"), dan no_telp ('083856721479'). 
 ### Kesimpulan
@@ -416,7 +416,7 @@ update [nama tabel] set kondisi where kondisi;
 update pelanggan set no_telp="089658420030" where id_pelanggan="2";
 ```
 ### Hasil
-![[IMG_20240225_145522.jpg]]
+![gmbr](Asset/IMG_20240225_145522.jpg)
 ### Analisis
 Kode "update pelanggan set no_telp='089658420030' where id_pelanggan='2';" adalah perintah SQL yang digunakan untuk mengubah nilai kolom "no_telp" menjadi "089658420030" di dalam tabel "pelanggan" di database di mana nilai kolom "id_pelanggan" sama dengan '2'.
 ### Kesimpulan

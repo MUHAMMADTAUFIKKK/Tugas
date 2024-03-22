@@ -226,9 +226,9 @@ Dalam tag `<img>` terdapat juga atribut `weith` dan `height` untuk mengatur ukur
 <Img src="gambar/walpaper.jpg" alt="logo walpaper" width="250" height="250">
 ```
 #### Hasil program
-![[IMG_20240218_145315.jpg]]
+![Gmbr](Assets/IMG_20240218_145315.jpg)
 #### Screenshot Folder HTML
-![[IMG_20240218_175507.jpg]]
+![gmbrr](Assets/IMG_20240218_175507.jpg)
 ### Video
 Fitur HTML5 mencangkup dukungan audio dan video asli tanpa memerlukan Flash.Tag `<autio>` dan `<video>` pada HTML5 mempermudah penambah media ke dalam halaman media ke dalam halaman web.yang penting untuk di atur pada tag ini adalah atribut `src` yang berfungsi untuk mengidentifikasi sumber media. Selain itu, terdapat pula atribut `controls` agar pengguna dapat memutar dan menjeda media
 ### Kode program
@@ -236,7 +236,7 @@ Fitur HTML5 mencangkup dukungan audio dan video asli tanpa memerlukan Flash.Tag 
 <video src="video/videoss.mp4" controls autoplay width="300" height="200" controls></video>
 ```
 #### Hasil program
-![[IMG_20240218_174051.jpg]]
+![gmbr](Assets/IMG_20240218_174051.jpg)
 ### Audio
 Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian fitur HTML5 untuk menampilkan audio asli dihalaman web tanpa memerlukan flash sebagaimana pada HTML versi 4. Yang penting untuk diatur pada tag ini adalah atribut `src` yang berfungi untuk mengidentifikasi sumber media. Selain itu, terdapat pula atribut `controls` agar pengguna dapat memutar dan menjeda media. 
 
@@ -246,7 +246,7 @@ Seperti yang telah dibahas sebelumnya bahwasanya tag `<audio>` merupakan bagian 
   Browser anda tidak mendukung elemen</audio>
 ```
 #### Hasil program
-![[IMG_20240218_145329.jpg]]
+![gmbr](Assets/IMG_20240218_145329.jpg)
 > [!INFO] Penjelasan Audio 
 > Konten berupa teks "Browser anda tidak mendukung elemen `<audio>`." Pada tag `<audio>` akan ditampilkan jika browser tidak mendukung elemen tersebut. Sehingga sebenarnya bagian ini dapat dihilangkan.
 
@@ -263,7 +263,7 @@ Dalam tag inframe ada beberapa atribut yang penting seperti :
 <iframe src="https://www.smkn7makassar.sch.id/" width="300" height="200">
 ```
 #### Hasil Program
-![[IMG_20240218_175528.jpg]]
+![gmbr](Assets/IMG_20240218_175528.jpg)
 
 ## Tabel 
 Tabel dalam HTML didefinisikan dengan tag `<table>`.
