@@ -11,8 +11,12 @@
             "id": "6ea1116b2ea9a88e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -57,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATATAN BASIS DATA.md",
+                "file": "CSS/Pengenalan CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0206346c91bf1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Tugas Eksplorasi.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CATATAN BASIS DATA.md",
+            "file": "CSS/Pengenalan CSS.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CATATAN BASIS DATA.md",
+            "file": "CSS/Pengenalan CSS.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +186,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CATATAN BASIS DATA.md"
+            "file": "CSS/Pengenalan CSS.md"
           }
         }
       }
@@ -191,50 +206,50 @@
   },
   "active": "882b67bd4eb8434d",
   "lastOpenFiles": [
-    "Catatan HTML.md",
-    "CATATAN BASIS DATA.md",
+    "Materi CSS/catatan css/Pengenalan CSS.md",
     "CSS/Pengenalan CSS.md",
-    "Basis data/Pengenalan Database.md",
+    "IMG_20240219_121110 1.jpg",
+    "CSS/Materi CSS Icon(Font awesome).md",
+    "icon fas.jpeg.md",
+    "Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275 2.jpg",
+    "Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275jpg.md",
+    "Materi CSS/Css Responsive/assets/responsive-1.png",
+    "Materi CSS/Css Responsive/assets/res-2.png",
+    "Materi CSS/Css Responsive/assets/res-3.png",
+    "Materi CSS/catatan css/Asset CSS/Screenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275.jpg",
+    "Materi CSS/catatan css/Asset CSS/IMG_20240427_221338.jpg",
+    "Materi CSS/catatan css/Asset CSS/Screenshot_2024-04-28-17-50-40-50_e3c1f266f17b29c7b40472751f031275.jpg",
+    "Materi CSS/catatan css/Asset CSS/Screenshot_2024-03-06-00-13-08-22_e3c1f266f17b29c7b40472751f031275.jpg",
+    "Materi CSS/catatan css/Asset CSS/IMG_20240427_221351.jpg",
+    "Materi CSS/Css Responsive/CSS Responsive.pdf",
+    "Materi CSS/Css Responsive/assets",
+    "Materi CSS/Css Responsive/CSS Responsive.md",
+    "Materi CSS/catatan css/Materi CSS Icon(Font awesome).md",
+    "Materi CSS/catatan css/Asset CSS",
+    "Materi CSS/Bootstrap/Bootstrap Framework.md",
+    "Materi CSS/Bootstrap/Bootstrap Framework.pdf",
+    "Materi CSS/Bootstrap/assets",
+    "Materi CSS/Css Responsive",
+    "Materi CSS/catatan css",
+    "Materi CSS/Bootstrap",
+    "Materi CSS",
+    "active.png.md",
+    "Assets/dis_flex.jpg.md",
+    "Css Responsive/CSS Responsive.md",
+    "Bootstrap/Bootstrap Framework.md",
+    "Bootstrap/Bootstrap Framework.pdf",
+    "1Materi/Bootstrap/Bootstrap Framework.md",
+    "1Materi/Semantic HTML/SEMANTIC HTML.md",
+    "1Materi/Github/Github & Git.md",
+    "1Materi/Css Responsive/CSS Responsive.md",
+    "CSS/Tugas Eksplorasi.md",
     "Basis data/Select lanjutan.md",
-    "Screenshot_2024-03-05-23-57-48-39_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-05-23-57-31-84_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-05-23-55-49-15_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-05-23-51-52-32_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-06-00-13-08-22_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-06-00-13-24-68_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-06-00-12-53-20_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-06-00-12-35-48_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-06-00-17-00-39_e3c1f266f17b29c7b40472751f031275.jpg",
-    "Screenshot_2024-03-06-00-16-38-78_e3c1f266f17b29c7b40472751f031275.jpg",
+    "Basis data/Pengenalan Database.md",
+    "Catatan Materi/Catatan Materi/Css Responsive/CSS Responsive.md",
+    "Catatan Materi/Catatan Materi/Semantic HTML/SEMANTIC HTML.md",
+    "Catatan Materi/Catatan Materi/Github/Github & Git.md",
+    "Basis data/Alter.md",
     "Basis data/Instalasi dan query awal database.md",
-    "IMG_20240219_121042.md",
-    "IMG_20240219_121048.md",
-    "DOC-20240225-WA0044.pdf",
-    "DOC-20240225-WA0044.md",
-    "HTML/Pengenalan OBSIDIAN.md",
-    "AssetsIMG_20240218_145329.jpg.md",
-    "IMG-20240117-WA0015.jpg.md",
-    "IMG_20240218_145202.md",
-    "IMG_20240218_145106.md",
-    "IMG.md",
-    "AssetsScreenshot_2024-02-25-17-43-39-65_84d3000e3f4017145260f7618db1d683.jpg.md",
-    "Spaces/Assets/Untitled",
-    "Assets",
-    "HTML/Pengenalan Html.md",
-    "HTML/Deskripsi Html,CSS,Java script.md",
-    "HTML/Kesimpulan video.md",
-    "Pengenalan Obsidian 1.md",
-    "Asset/creenshot_2024-02-25-21-58-31-70_84d3000e3f4017145260f7618db1d683.jpg.md",
-    "Asset",
-    "Untitled.loom",
-    "Basis data/Untitled.md",
-    "Assets/IMG_20240218_175520.md",
-    "Assets/Screenshot_2024-02-18-17-51-51-59_e3c1f266f17b29c7b40472751f031275.md",
-    "Assets/Screenshot_2024-02-18-18-49-12-12_e3c1f266f17b29c7b40472751f031275.md",
-    "Assets",
-    "CSS",
-    "Spaces/Pengenalan CSS",
-    "Basis data",
-    "Spaces/Home"
+    "AssetScreenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275.jpg.md"
   ]
 }
