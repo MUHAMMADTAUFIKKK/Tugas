@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Pengenalan CSS.md",
+                "file": "CSS/Materi CSS Icon(Font awesome).md",
                 "mode": "source",
                 "source": false
               }
@@ -71,12 +71,8 @@
             "id": "b0206346c91bf1dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS/Tugas Eksplorasi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -157,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "CSS/Materi CSS Icon(Font awesome).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,7 +170,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "CSS/Materi CSS Icon(Font awesome).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -186,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSS/Pengenalan CSS.md"
+            "file": "CSS/Materi CSS Icon(Font awesome).md"
           }
         }
       }
@@ -204,10 +200,11 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "882b67bd4eb8434d",
+  "active": "6ea1116b2ea9a88e",
   "lastOpenFiles": [
-    "Materi CSS/catatan css/Pengenalan CSS.md",
+    "IMG-20240428-WA0076.jpg",
     "CSS/Pengenalan CSS.md",
+    "Materi CSS/catatan css/Pengenalan CSS.md",
     "IMG_20240219_121110 1.jpg",
     "CSS/Materi CSS Icon(Font awesome).md",
     "icon fas.jpeg.md",

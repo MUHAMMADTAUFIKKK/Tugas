@@ -523,4 +523,4 @@ Kode CSS di atas mengatur gaya dan tata letak untuk elemen-elemen HTML dalam hal
 img`) dalam halaman. Di sini, gambar diberi margin atas sebesar 100px dan margin kanan sebesar 50px. Selain itu, gambar diberi border dengan warna solid kuning sebesar 5px.
 
 #### Hasil pengerjaan
-![[hasil ekplorasi.png]]
+![Img](IMG-20240428-WA0076.jpg)
