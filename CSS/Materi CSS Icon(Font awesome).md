@@ -18,16 +18,15 @@ Icon yang memiliki properti fas adalah ikon solid, yang artinya memiliki penampi
 ```
 
 Contoh Hasil:
-![[icon fas.jpeg]]
 
- Regular Icon (far):
+Regular Icon (far):
 Icon yang memiliki properti far adalah ikon regular, yang artinya memiliki penampilan garis tepi (outline). Berikut adalah contoh penggunaannya:
 ```html
 <i class="far fa-heart"></i>
 ```
 
 Contoh Hasil:
-![[icon far.jpeg]]
+
 
 Brand Icon (fab):
 Icon yang memiliki properti fab adalah ikon merek, yang artinya menampilkan logo merek seperti Facebook, Twitter, dll. Berikut adalah contoh penggunaannya: 
@@ -37,7 +36,7 @@ Icon yang memiliki properti fab adalah ikon merek, yang artinya menampilkan logo
 ```
 
 Contoh Hasil:
-![[icon fab.jpeg]]
+
 
 (`fa-spin`) 
 di Font Awesome digunakan untuk memberi ikon efek putaran (spin) yang berputar secara terus-menerus. Ini berguna ketika Anda ingin menunjukkan bahwa suatu proses sedang berlangsung atau ketika Anda hanya ingin menambahkan sedikit animasi ke halaman web Anda. Misalnya, Anda dapat menggunakan `fa-spin` pada ikon roda gigi untuk menunjukkan bahwa aplikasi sedang memproses atau memuat data.
@@ -50,10 +49,9 @@ Saat Anda menambahkan kelas `fa-spin` ke ikon Font Awesome, itu akan mulai berpu
 Contoh Hasilnya:
 
 Before
-![[beforo.icon.png]]
 
 After
-![[after.icon.png]]
+
 
 Kode Program
 ```html
@@ -105,7 +103,7 @@ margin-right: 10px;
 ```
 
 Contoh Hasil
-![[eksplorasi.png]]
+
 ### Cara menggunakan secara online dan offline
 #### Secara online
 1. Persiapkan Font Awesome:
@@ -116,7 +114,6 @@ Pertama, pastikan Anda memiliki akses ke Font Awesome. Anda dapat memilih untuk 
 
 ```html
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 ```
 
 3. Gunakan Ikon di HTML: Di dalam
@@ -145,37 +142,37 @@ https://fontawesome.com/v4/icons
 
 #### Secara Offline
 1. pertama-tama kita membuka web browser
-    ![[tutorial1.png]]
+    
 
 2.  kemudian kita sercing ke browser pencarian download font awesome 5, kemudian kita scroll kebawah klik yang berada di baris kedua.
-    ![[tutorial2.png]]
+    
 
 3. Lalu kita pilih version yang berada di samping kanan kemudian kita pilih yang bisa di gunakan oleh device anda seperti contoh saya yang menggunakan version 5
  
 
 4. kemudian kita download yang free for web 
-    ![[tutorial4.png]]
+    
 
 5. setelah selesai di download kita Extrack file yang telah kita download
-    ![[tutorial5.png]]
+    
 
 6. Kemudian kita copy file yang telah kita extrack lalu kita memasukan file tersebut ke file teks editor kita
-    ![[tutorial6.png]]
+
 
 7. Setelah kita telah memasukkan file font awesome kita jadinya akan seperti ini
-    ![[tutorial7.png]]
+
 
 8. kemudian kita buka teks editor lalu kita buat struktur html setelah itu kita memanggil font awesome dengan menggunakan ` <link rel="stylesheet" href=""` lalu kita masukan file font awesome kita.
-    ![[tutorial8.png]]
+    
 
 9. setelah itu kita di pilih css seperti gambar di bawah
-    ![[tutorial9.png]]
+    
 
 10. lalu kemudian kita pilih # all.min.css
-    ![[tutorial10.png]]
+    
 
 11. setelah itu kita telah bisa memanggil icon yang ingin kita pilih dengan menggunakan perintah `<i class="fas fa-home"></i>`
-    ![[tutorial12.png]]
+    
 
 12. selesai
 
@@ -211,9 +208,9 @@ https://fontawesome.com/v4/icons
 ```
 
 #### Hasil
-![[tutorial11.png]]
 
-### Implementasi
+
+
 ```html
 <!DOCTYPE html>
 <html lang="en">

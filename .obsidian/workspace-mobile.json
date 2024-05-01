@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Pengenalan CSS.md",
+                "file": "Materi CSS/Css Responsive/CSS Responsive.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +153,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "Materi CSS/Css Responsive/CSS Responsive.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSS/Pengenalan CSS.md",
+            "file": "Materi CSS/Css Responsive/CSS Responsive.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -182,7 +182,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSS/Pengenalan CSS.md"
+            "file": "Materi CSS/Css Responsive/CSS Responsive.md"
           }
         }
       }
@@ -200,11 +200,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "882b67bd4eb8434d",
+  "active": "6ea1116b2ea9a88e",
   "lastOpenFiles": [
-    "CSS/Materi CSS Icon(Font awesome).md",
-    "IMG-20240428-WA0076.jpg",
     "CSS/Pengenalan CSS.md",
+    "Basis data/Select lanjutan.md",
+    "CSS/Materi CSS Icon(Font awesome).md",
+    "Materi CSS Icon(Font awesome).md",
+    "tutorial11.png.md",
+    "tutorial5.png.md",
+    "IMG-20240428-WA0076.jpg",
     "Materi CSS/catatan css/Pengenalan CSS.md",
     "IMG_20240219_121110 1.jpg",
     "icon fas.jpeg.md",
@@ -239,13 +243,10 @@
     "1Materi/Github/Github & Git.md",
     "1Materi/Css Responsive/CSS Responsive.md",
     "CSS/Tugas Eksplorasi.md",
-    "Basis data/Select lanjutan.md",
     "Basis data/Pengenalan Database.md",
     "Catatan Materi/Catatan Materi/Css Responsive/CSS Responsive.md",
     "Catatan Materi/Catatan Materi/Semantic HTML/SEMANTIC HTML.md",
     "Catatan Materi/Catatan Materi/Github/Github & Git.md",
-    "Basis data/Alter.md",
-    "Basis data/Instalasi dan query awal database.md",
-    "AssetScreenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275.jpg.md"
+    "Basis data/Alter.md"
   ]
 }
