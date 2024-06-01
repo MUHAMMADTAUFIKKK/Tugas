@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/Select lanjutan.md",
+                "file": "Basis data/Alter.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "a07b997981d04115",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis data/Praktikum 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
@@ -57,13 +71,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Pengenalan Html.md",
+                "file": "Materi PHP/PHP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -129,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/Select lanjutan.md",
+            "file": "Materi PHP/PHP.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +161,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/Select lanjutan.md",
+            "file": "Materi PHP/PHP.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,7 +173,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/Select lanjutan.md"
+            "file": "Materi PHP/PHP.md"
           }
         }
       }
@@ -178,50 +193,51 @@
   },
   "active": "882b67bd4eb8434d",
   "lastOpenFiles": [
+    "Materi PHP/PHP MYSQL.md",
+    "Materi PHP/PHP Dasar.md",
+    "Basis data/Praktikum GROUP BY HAVING.md",
+    "Materi PHP/PHP.md",
     "Basis data/Alter.md",
-    "IMG_20240220_151319.jpg",
     "Basis data/Select lanjutan.md",
-    "Screenshot_2024-05-04-16-35-28-11_84d3000e3f4017145260f7618db1d683.jpg",
-    "Asset/Screenshot_2024-05-04-16-35-28-11_84d3000e3f4017145260f7618db1d683.jpg",
-    "Screenshot_2024-05-04-16-15-05-16_84d3000e3f4017145260f7618db1d683.jpg",
-    "Screenshot_2024-05-04-16-14-55-34_84d3000e3f4017145260f7618db1d683.jpg",
-    "Screenshot_2024-05-04-16-14-44-71_84d3000e3f4017145260f7618db1d683.jpg",
-    "Screenshot_2024-05-04-16-14-32-69_84d3000e3f4017145260f7618db1d683.jpg",
-    "Screenshot_2024-05-04-16-12-55-78_84d3000e3f4017145260f7618db1d683.jpg",
-    "Asset/Screenshot_2024-05-04-16-15-05-16_84d3000e3f4017145260f7618db1d683.jpg",
-    "Asset/Screenshot_2024-05-04-16-14-55-34_84d3000e3f4017145260f7618db1d683.jpg",
+    "Basis data/Praktikum 5.md",
+    "HTML/Pengenalan Html.md",
+    "Materi PHP/PHP MySQL.md",
+    "Aset/Catatan Praktikum 5.md",
+    "Aset/Pegawai.jpg",
+    "Aset/gbr3.png",
+    "Aset/gbr2.png",
+    "Aset/gbr1.png",
+    "Aset/18.jpg",
+    "Aset/17.jpg",
+    "Aset/16.png",
+    "Aset/15.png",
+    "Aset/12.jpg",
+    "Aset/13.jpg",
+    "Asset.md",
+    "ALTER.md",
+    "Catatan.md",
+    "CSS/Pengenalan CSS.md",
+    "CATATAN BASIS DATA.md",
+    "Materi PHP/Referensi PHP.md",
+    "Materi CSS/catatan css/Pengenalan CSS.md",
+    "IMG_20240219_121042.md",
+    "perbandingan.png.md",
+    "asetPHP/Tabel.jpg.md",
+    "asetPHP",
+    "aritmatika.png.md",
+    "Materi PHP/asetPHP",
+    "Untitled.loom",
+    "Materi PHP",
+    "Materi PHP",
     "HTML/Kesimpulan video.md",
     "CSS/Css Responsive/CSS Responsive.md",
-    "ALTER.md",
     "CSS/Materi CSS Icon(Font awesome).md",
     "CSS/Bootstrap/Bootstrap Framework.md",
     "CSS/Bootstrap/assets",
     "CSS/Bootstrap/Bootstrap Framework.pdf",
     "CSS/Bootstrap",
-    "CATATAN BASIS DATA.md",
     "Basis data/Pengenalan Database.md",
-    "Materi CSS/Css Responsive/CSS Responsive.md",
-    "CSS/Pengenalan CSS.md",
-    "Materi CSS Icon(Font awesome).md",
-    "tutorial11.png.md",
-    "tutorial5.png.md",
-    "Materi CSS/catatan css/Pengenalan CSS.md",
-    "icon fas.jpeg.md",
-    "Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275jpg.md",
     "Materi CSS/Css Responsive/CSS Responsive.pdf",
-    "Materi CSS/Css Responsive/assets",
-    "Materi CSS/catatan css/Materi CSS Icon(Font awesome).md",
-    "Materi CSS/catatan css/Asset CSS",
-    "Materi CSS/Bootstrap/Bootstrap Framework.md",
-    "Materi CSS/Bootstrap/Bootstrap Framework.pdf",
-    "Materi CSS/Bootstrap/assets",
-    "Materi CSS/Css Responsive",
-    "Materi CSS/catatan css",
-    "active.png.md",
-    "Assets/dis_flex.jpg.md",
-    "Css Responsive/CSS Responsive.md",
-    "Bootstrap/Bootstrap Framework.md",
-    "1Materi/Bootstrap/Bootstrap Framework.md",
-    "1Materi/Semantic HTML/SEMANTIC HTML.md"
+    "Materi CSS/Css Responsive/assets"
   ]
 }

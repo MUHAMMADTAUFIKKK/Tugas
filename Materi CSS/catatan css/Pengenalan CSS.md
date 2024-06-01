@@ -37,7 +37,7 @@ ___
 button{background-color: red;}
 ```
 ### Hasil
-![gambar](IMG_20240219_121048.jpg)
+![gambar](IMG_color.jpg)
 ### Penjelasan
 Kode program button{background-color: red;} merupakan aturan CSS yang menetapkan warna latar belakang (background-color) menjadi merah untuk semua elemen <`button`> dalam dokumen HTML yang terhubung dengan stylesheet tersebut. Ini berarti semua tombol dalam dokumen HTML akan memiliki latar belakang merah ketika aturan CSS ini diterapkan
 ____
@@ -46,7 +46,8 @@ ____
 button{color:blue;}
 ```
 ### Hasil
-![gambar](IMG_20240219_121042 2.jpg)
+
+![Gmbar](IMG_20240219_121042.jpg)
 ![gambar](IMG_20240219_121100.jpg)
 ### Penjelasan
 Kode program CSS tersebut adalah aturan CSS yang mendefinisikan styling untuk elemen-elemen yang menggunakan tag <`button`>. Dalam aturan tersebut, warna teks (color) diatur menjadi biru (blue).
