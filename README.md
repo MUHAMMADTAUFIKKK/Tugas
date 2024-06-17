@@ -49,12 +49,16 @@ http://localhost/project1/index.php
  ┣ 📜stylecrud.css  
  ┣ 📜stylelogin.css  
  ┗ 📜update.php
+ 
  ┣ 📂aset  
  ┃ ┗ 📜kelas.jpeg  
+ 
  ┣ 📂database  
  ┃ ┗ 📜rpl_news (1).sql  
+ 
  ┣ 📂img  
  ┃ ┣ 📜6668f15c5cb03.jpg  
+ 
  ┣ 📂template  
  ┃ ┣ 📂css  
  ┃ ┃ ┣ 📜all.css  
