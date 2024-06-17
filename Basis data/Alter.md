@@ -2,9 +2,9 @@
 # Menambahkan Kolom
 ## Hasil Sebelum Menambah kolom
 
-![i](Screenshot_2024-04-23-13-45-57-87_84d3000e3f4017145260f7618db1d683.jpg)
+![i](Asset/Screenshot_2024-04-23-13-45-57-87_84d3000e3f4017145260f7618db1d683.jpg)
 ## Hasil Sesudah Menambah kolom
-![i](Screenshot_2024-04-23-13-46-39-02_84d3000e3f4017145260f7618db1d683.jpg)
+![i](Asset/Screenshot_2024-04-23-13-46-39-02_84d3000e3f4017145260f7618db1d683.jpg)
 ## Struktur Query
 ```mysql
 ALTER TABLE nama_tabel ADD batas_peminjaman varchar(10) AFTER nama_kolom;
@@ -31,7 +31,7 @@ Update nama_tabel set batas_peminjaman = "2024-04-24" where kolom_tabel = 3;
 ```mysql
 Update mobil set batas_peminjaman = "2024-04-24" where id_mobil = 3;
 ```
-![I](Screenshot_2024-04-23-14-19-34-10_84d3000e3f4017145260f7618db1d683.jpg)
+![I](Asset/Screenshot_2024-04-23-14-19-34-10_84d3000e3f4017145260f7618db1d683.jpg)
 
 ____
 # Mengubah Nama kolom
@@ -44,7 +44,7 @@ ALTER TABLE nama_tabel RENAME COLUMN nama_kolom TO nama_kolom baru;
 ALTER TABLE mobil RENAME COLUMN batas_peminjaman to deadline;
 ```
 ### Hasil
-![s](Screenshot_2024-04-23-14-29-05-62_84d3000e3f4017145260f7618db1d683.jpg)
+![s](Asset/Screenshot_2024-04-23-14-29-05-62_84d3000e3f4017145260f7618db1d683.jpg)
 ## analisis
 1. `ALTER TABLE`: Ini menunjukkan bahwa kita sedang memodifikasi struktur dari sebuah tabel.
 2. `mobil`: Ini adalah nama tabel yang akan kita ubah.
@@ -62,9 +62,9 @@ ALTER TABLE nama_tabel MODIFY deadline DATE;
 ALTER TABLE data_mobil MODIFY deadline DATE;
 ```
 ### hasil before
-![i](Screenshot_2024-04-23-14-29-05-62_84d3000e3f4017145260f7618db1d683.jpg)
+![i](Asset/Screenshot_2024-04-23-14-29-05-62_84d3000e3f4017145260f7618db1d683.jpg)
 ### Hasil after
-![](Screenshot_2024-05-03-20-33-37-26_84d3000e3f4017145260f7618db1d683.jpg)
+![](Asset/Screenshot_2024-05-03-20-33-37-26_84d3000e3f4017145260f7618db1d683.jpg)
 
 ## Analisis
 . `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk mengubah struktur tabel.
@@ -87,7 +87,7 @@ ALTER TABLE data_mobil
 ```
 
 ## hasil
-![](Screenshot_2024-05-04-11-52-13-53_84d3000e3f4017145260f7618db1d683.jpg)
+![](Asset/Screenshot_2024-05-04-11-52-13-53_84d3000e3f4017145260f7618db1d683.jpg)
 ## analisis
 1. `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk mengubah struktur tabel.
 2. `mobil`: Ini adalah nama tabel yang ingin Anda ubah strukturnya.
@@ -107,7 +107,7 @@ ALTER TABLE mobil
 ALTER deadline DROP DEFAULT;
 ```
 ## hasil
-![](Screenshot_2024-05-04-12-08-19-21_84d3000e3f4017145260f7618db1d683.jpg)
+![](Asset/Screenshot_2024-05-04-12-08-19-21_84d3000e3f4017145260f7618db1d683.jpg)
 ## analisis
 1. `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk mengubah struktur tabel.
 2. `mobil`: Ini adalah nama tabel yang ingin Anda ubah strukturnya.
@@ -125,9 +125,8 @@ ALTER TABLE nama_tabel DROP COLUMN ;
 ALTER TABLE nama_tabel DROP COLUMN deadline;
 ```
 ## Hasil before 
-![ll](Screenshot_2024-05-03-20-33-37-26_84d3000e3f4017145260f7618db1d683.jpg)
-## hasil after
-![](Screenshot_2024-05-04-12-32-03-70_84d3000e3f4017145260f7618db1d683.jpg)
+![ll](Asset/Screenshot_2024-05-03-20-33-37-26_84d3000e3f4017145260f7618db1d683.jpg)## hasil after
+![](Asset/Screenshot_2024-05-04-12-32-03-70_84d3000e3f4017145260f7618db1d683.jpg)
 ## analisis
 1. `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk mengubah struktur tabel.
 2. `mobil`: Ini adalah nama tabel yang ingin Anda ubah strukturnya.
@@ -145,7 +144,7 @@ ALTER TABLE nama_tabel RENAME TO nama_kolom;
 ALTER TABLE mobil RENAME TO data_mobil;
 ```
 ## hasil 
-![](Screenshot_2024-04-23-15-32-15-56_84d3000e3f4017145260f7618db1d683.jpg)
+![](Asset/Screenshot_2024-04-23-15-32-15-56_84d3000e3f4017145260f7618db1d683.jpg)
 
 ## Analisis
 1. `ALTER TABLE`: Ini adalah perintah SQL yang digunakan untuk mengubah struktur tabel.

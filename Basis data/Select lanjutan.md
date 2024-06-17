@@ -134,21 +134,21 @@ Kode tersebut adalah perintah SQL yang serupa dengan yang sebelumnya. Ini juga d
 Kesimpulan dari kode tersebut adalah bahwa kita ingin menampilkan semua data mobil yang memiliki harga rental yang tidak sama dengan 50000.
 
 ---
-## TANTANGAN LOGIN
+# TANTANGAN LOGIN
 ### Struktur query
 ```mysql
-select data from [nama_tabel] where data ="nilai";
+select data1 from nama_tabel where data2='admin' and data3='12345';
 ```
 ### Contoh query
 ```mysql
-select pemilik from mobil where pemilik ="Taufik";
+select nama from tantangan_login where username='admin' and password='12345';
 ```
 ### Hasil
-![[Screenshot_2024-02-20-15-23-09-49_84d3000e3f4017145260f7618db1d683.jpg]]
+![img](akun.png)
 ### Analisis
-Kode tersebut adalah perintah SQL yang digunakan untuk mengambil data dari tabel "mobil" di mana nilai kolom "pemilik" adalah "Taufik". Dengan kata lain, perintah tersebut akan mengembalikan semua baris dari tabel "mobil" di mana nama pemilik mobilnya adalah "Taufik"
+Kode tersebut adalah perintah SQL yang digunakan untuk mengambil data dari tabel "tantangan_akun" di mana nilai kolom "nama" adalah "githa". Dengan kata lain, perintah tersebut akan mengembalikan semua baris dari tabel "tantangan_login" di mana nama akun yang ingin di seleksi adalah "githa"
 ### Kesimpulan
-Kesimpulan dari kode tersebut adalah bahwa kita ingin menampilkan semua data mobil yang dimiliki oleh seseorang dengan nama "Taufik".
+Kesimpulan dari kode tersebut adalah bahwa kita ingin seleksi data akun yang dimiliki oleh seseorang dengan nama "githa".
 
 ---
 # Materi IN
@@ -656,8 +656,7 @@ SELECT AVG(harga_rental) AS RATA_RATA FROM mobil;
 ![](Screenshot_2024-05-04-16-15-05-16_84d3000e3f4017145260f7618db1d683.jpg)
 ### analisis
 Select AVG (harga_rental) adalah nama kolom yang akan dihitung rata-rata harga rentalnya.Dengan menggunakan AVG kita dapat menghasilkan rata-rata harga rental mobil dari tabel mobil. Perintah SELECT AVG(harga_rental) menghitung nilai rata-rata dari kolom harga_rental. Hasil dari query ini akan memberikan rata-rata harga rental mobil di tabel mobil.hasil dari rata-rata harga mobil adalah 90000.0000.
-
 ### Kesimpulan
 Kesimpulannya,akan menampilkan hasil dari rata-rata harga mobil pada kolom harga_rental.
 
-
+---

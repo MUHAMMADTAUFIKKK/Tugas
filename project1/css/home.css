@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+nav {
+    background: #359cf0; /* Changed background color */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    background: #8b8888;
+}
+
+footer {
+    background: #232324;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    margin-top: 50%;
+    width: 100%;
+}
+
+.background {
+    background-image: url(aset/kelas.jpeg);
+    background-size: 1800px;
+    padding-top: 0%;
+    height: 100%;
+    
+}
+
+.tex {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-top: 100px;
+}
+
+@media screen and (max-width: 320px) {
+    body{
+        font-size: 20px;
+    }
+    nav ul li {
+        display: block;
+    }
+    nav ul li a {
+        padding: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        font-size: 20px;
+    }
+    nav ul li {
+        display: block;
+    }
+    nav ul li a {
+        padding: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    body{
+        font-size: 20px;
+    }
+    nav ul li {
+        display: block;
+    }
+    nav ul li a {
+        padding: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    body{
+        font-size: 20px;
+    }
+    nav ul li {
+        display: block;
+    }
+    nav ul li a {
+        padding: 0.5rem;
+    }
+}

@@ -12,12 +12,12 @@ if ($koneksi) {
 ```
 ## hasil
 ![koneksi](Asset/koneksii.png)
-## analisis
+## Analisis
 1. Koneksi ke database:
-    - Menggunakan fungsi `mysqli_connect()` untuk membuat koneksi ke database MySQL dengan parameter host ('localhost'), username ('root'), password (''), dan nama database ('rental_rahmat').
-    - Jika koneksi berhasil, maka pesan "koneksi aman" akan ditampilkan. Jika tidak, pesan "error, tidak bisa koneksi ke database" akan ditampilkan.
+- Menggunakan fungsi `mysqli_connect()` untuk membuat koneksi ke database MySQL dengan parameter host ('localhost'), username ('root'), password (''), dan nama database ('siswa').
+- Jika koneksi berhasil, maka pesan "koneksi aman" akan ditampilkan. Jika tidak, pesan "error, tidak bisa koneksi ke database" akan ditampilkan.
 
-**Kesimpulan:**
+## Kesimpulan
 Program PHP dan SQL di atas bertujuan untuk melakukan koneksi ke database MySQL menggunakan fungsi `mysqli_connect()`. Setelah koneksi berhasil, pesan "koneksi aman" akan ditampilkan. Jika terdapat masalah dalam koneksi, maka pesan "error, tidak bisa koneksi ke database" akan ditampilkan. Namun, pada kode yang diberikan, tag pembuka PHP ditulis sebagai "<php" yang seharusnya "<php" (dengan tanda "?"). Pastikan untuk mengubahnya menjadi "<php" agar kode PHP dapat dieksekusi dengan benar.
 
 ---
@@ -714,7 +714,7 @@ exit;
 ```
 ### hasil
 ![download](Asset/download.png)
-### analisis
+
 ### Analisis
 - include "koneksi.php"; = Menyertakan file koneksi untuk menghubungkan ke database MySQL.
 - mysqli_query($koneksi, 'SELECT * FROM siswa'); = Menjalankan query SQL untuk mengambil semua data dari tabel siswa.

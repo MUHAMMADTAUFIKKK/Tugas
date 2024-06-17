@@ -1,5 +1,5 @@
 # Anatomi CSS
-![gmbar](anatomi_css.jpg)
+![gmbar](Asset%20CSS/anatomi_css.jpg)
 
 # Percobaan Pertama CSS
 ### Kode program
@@ -10,7 +10,7 @@
 }
 ```
 ### Hasil
-![gmbar](IMG_20240304_094823.jpg)
+![gmbar](Asset%20CSS/IMG_20240304_094823.jpg)
 ### Penjelasan
 Deklarasi gaya CSS { color: red; } menetapkan properti color ke nilai "red", sehingga teks dalam elemen paragraf akan ditampilkan dengan warna merah.
 ___
@@ -27,7 +27,7 @@ button{width: 150px; height: 50px;
 button{font-size : 100px;}
 ```
 ### Hasil
-![IMG](IMG_20240219_121110.jpg)
+![IMG](Asset%20CSS/IMG_20240219_121110.jpg)
 ### Penjelasan
 button { font-size: 100px; } adalah aturan CSS yang menentukan gaya untuk semua elemen <`button`> dalam dokumen HTML
 **Button**: Ini adalah selector yang menargetkan semua elemen <`button`> dalam dokumen HTML.
@@ -38,7 +38,7 @@ ___
 button{background-color: red;}
 ```
 ### Hasil
-![gambar](img_color.jpg)
+![gambar](Asset%20CSS/img_color.jpg)
 
 ### Penjelasan
 Kode program button{background-color: red;} merupakan aturan CSS yang menetapkan warna latar belakang (background-color) menjadi merah untuk semua elemen <`button`> dalam dokumen HTML yang terhubung dengan stylesheet tersebut. Ini berarti semua tombol dalam dokumen HTML akan memiliki latar belakang merah ketika aturan CSS ini diterapkan
@@ -48,8 +48,7 @@ ____
 button{color:blue;}
 ```
 ### Hasil
-![gambar](IMG_20240219_121042 2.jpg)
-![gambar](IMG_20240219_121100.jpg)
+![gambar](Asset%20CSS/IMG_20240219_121100.jpg)
 ### Penjelasan
 Kode program CSS tersebut adalah aturan CSS yang mendefinisikan styling untuk elemen-elemen yang menggunakan tag <`button`>. Dalam aturan tersebut, warna teks (color) diatur menjadi biru (blue).
 ____
@@ -129,7 +128,7 @@ Kode CSS p {text-align: right;} digunakan untuk mengatur tata letak teks dalam e
 p{Text-Align:right;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-12-05-31-55_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-12-05-31-55_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 text-align merupakan property untuk membuat teks pada tampilan browser menjadi kekanan (text-align:right;),kekiri (Text-Align:left;), ke tengah(Text-Align:center;), dan rata kanan kiri(Text-Align:justify;)
 ___
@@ -141,7 +140,7 @@ Kode CSS p {text-decoration: underline;} digunakan untuk memberikan dekorasi gar
 p{Text-decoration:underline;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-04-12-06-56-40_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-04-12-06-56-40_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kesimpulannya, kode CSS `p {text-decoration: underline;}` digunakan untuk memberikan dekorasi garis bawah pada teks dalam elemen paragraf (`<p>`) di halaman web.
 ___
@@ -153,7 +152,7 @@ Kode CSS p {text-transform: lowercase;} digunakan untuk mengubah semua teks dala
 p{text-transform:lowercase;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-12-15-37-22_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-12-15-37-22_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kesimpulannya, kode {text-transform:lowercase;} ini akan membuat semua teks di dalam elemen paragraf menjadi huruf kecil.
 ___
@@ -166,7 +165,7 @@ text-indent: Ini adalah properti CSS yang mengatur jarak indentasi awal dari tek
 p{Text-indent:50px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-12-16-26-48_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-12-16-26-48_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kesimpulannya, kode tersebut mengatur indentasi awal teks dalam semua elemen paragraf sejauh 50 piksel dari sisi kiri.
 ___
@@ -191,7 +190,7 @@ line-height: Ini adalah properti CSS yang mengatur tinggi baris di dalam elemen.
 P{Line-height:50px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-12-19-53-50_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-12-19-53-50_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 kode Line-height:20px; mengatur tinggi baris untuk semua elemen paragraf menjadi 20 piksel.
 ___
@@ -204,7 +203,7 @@ P{Word-Spacing:50px;}
 
 ```
 ### Hasil
-![Img](Screenshot_2024-03-04-12-20-18-13_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-04-12-20-18-13_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 kode Word-spacing:50px; mengatur jarak antara kata-kata di dalam semua elemen paragraf menjadi 50 piksel.
 ___
@@ -218,7 +217,7 @@ background-size: 200px;: Properti ini mengatur ukuran latar belakang. Di sini, l
 P{background-size:200px;}
 ```
 ### Hasil
-![IMg](Screenshot_2024-03-04-13-15-10-32_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMg](Asset%20CSS/Screenshot_2024-03-04-13-15-10-32_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode property tersebut bertujuan mengatur ukuran gambar latar belakang dengan size pixel.
 ___
@@ -231,7 +230,7 @@ background-repeat: no-repeat;Properti ini menentukan apakah gambar latar belakan
 P{background-repeat:no-repeat;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-04-12-30-21-41_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-04-12-30-21-41_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode property tersebut berguna agar gambar tidak akan ber ulang Dengan menggunakan value (no-repeat)
 ___
@@ -243,7 +242,7 @@ background-attachment: fixed; Properti ini menentukan apakah latar belakang akan
 p{background-attachment:fixed;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-13-15-10-32_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-13-15-10-32_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode property tersebut akan mengatasi gambar yang bergulir akan diam dengan menggunakan value (fixed)
 ___
@@ -256,7 +255,7 @@ p
 {Background-position:top;}
 ```
 ### Hasil
-![img](Screenshot_2024-03-04-12-41-48-46_e3c1f266f17b29c7b40472751f031275.jpg)
+![img](Asset%20CSS/Screenshot_2024-03-04-12-41-48-46_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode property tersebut akan menentukan posisi gambar latar belakang ke atas (top).
 ___
@@ -269,7 +268,7 @@ p
 {Background-image:url(gambar/walpaper.jpg);}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-12-36-19-54_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-12-36-19-54_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode property tersebut akan menentukan gambar Apa yang digunakan untuk latar-belakang.
 ___
@@ -283,7 +282,7 @@ Font-weight: bold; adalah properti CSS yang digunakan untuk mengatur ketebalan t
 p{Font-Weight:bold;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-13-30-15-73_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-13-30-15-73_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Properti CSS ini digunakan untuk mengatur ketebalan teks. Dalam hal ini, nilai yang diberikan adalah "bold".
 ___
@@ -295,7 +294,7 @@ Font-size: 50px; adalah properti CSS yang digunakan untuk mengatur ukuran font m
 P{Font-Size:50px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-04-13-33-41-41_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-04-13-33-41-41_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode property bertujuan agar teks membuatnya lebih besar dari ukuran font standar yang biasa digunakan dalam tata letak halaman web.
 ___
@@ -307,7 +306,7 @@ Font-style: italic; adalah properti CSS yang digunakan untuk mengatur gaya teks 
 p{Font-Style:italic;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-04-13-34-49-67_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-04-13-34-49-67_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode properti yang bertujuan untuk mengatur gaya teks yang dalam kasus ini menjadi miring (italic).
 ___
@@ -319,7 +318,7 @@ Font-family: Times New Roman; adalah properti CSS yang digunakan untuk menentuka
 P{Font-family:Times-New-Roman;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-04-13-31-32-29_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-04-13-31-32-29_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode properti ini digunakan untuk menetapkan jenis font yang akan digunakan untuk menampilkan teks, di mana dalam kasus ini, jenis font yang dipilih adalah Times New Roman.
 ___
@@ -334,7 +333,7 @@ border-radius adalah properti CSS yang digunakan untuk menentukan sudut lengkung
 Button{border-radius:10px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-06-00-05-15-21_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-06-00-05-15-21_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 border-radius dengan nilai 10px 10px 10px 10px mengatur radius lengkung untuk setiap sudut dari sebuah elemen kotak menjadi 10 piksel secara terpisah: atas kiri, atas kanan, bawah kanan, dan bawah kiri.
 ___
@@ -346,7 +345,7 @@ Properti border-color dalam CSS digunakan untuk menentukan warna dari tepi (bord
 Button{Border-color:green;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-06-00-08-10-00_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-06-00-08-10-00_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Properti border-color digunakan untuk menentukan warna dari tepi (border) sebuah elemen HTML dalam model kotak (box model). Anda dapat menggunakan nilai warna seperti nama warna, nilai RGB, nilai HEX, atau nilai yang relatif seperti "transparent" untuk membuat tepi transparan.
 ___
@@ -359,7 +358,7 @@ none : Tidak ada garis tepi. solid : Garis tepi berupa garis lurus dan solid. da
 Button{Border-style:dashed;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-06-00-09-24-39_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-06-00-09-24-39_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 border-style digunakan untuk menentukan jenis garis tepi (border) dari sebuah elemen HTML. Properti ini mengontrol penampilan visual dari garis tepi dengan nilai seperti solid, dashed, dan lainnya.
 ___
@@ -371,7 +370,7 @@ Properti border-width digunakan untuk mengatur ketebalan (lebar) dari batas (bor
 Button{border-width:20px;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-06-00-09-48-67_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-06-00-09-48-67_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 border-width digunakan untuk mengatur ketebalan (lebar) dari batas (border) pada sebuah elemen HTML. 
 Anda dapat menentukan nilai untuk border-width dalam piksel, persentase, atau menggunakan kata kunci seperti thin, medium, atau thick. Nilai ini mengontrol tebalnya batas yang mengelilingi elemen.
@@ -422,7 +421,7 @@ margin-left: 50px;
 </html>
 ```
 ### Hasil
-![Img](Screenshot_2024-04-24-18-35-14-28_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-24-18-35-14-28_e3c1f266f17b29c7b40472751f031275.jpg)
 ___
 # Materi Height & width
 ___
@@ -435,7 +434,7 @@ height: Properti ini digunakan untuk menentukan tinggi (vertikal) dari sebuah el
 Button{height:100px;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-06-00-16-38-78_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-06-00-16-38-78_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Properti height digunakan untuk mengatur tinggi (vertikal) dari sebuah elemen.
 ___
@@ -447,7 +446,7 @@ width: Properti ini digunakan untuk menentukan lebar (horizontal) dari sebuah el
 Button{width:100px;}
 ```
 ### Hasil
-![image](Screenshot_2024-03-06-00-17-00-39_e3c1f266f17b29c7b40472751f031275.jpg)
+![image](Asset%20CSS/Screenshot_2024-03-06-00-17-00-39_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Properti width digunakan untuk mengatur lebar (horizontal) dari sebuah elemen.
 ___
@@ -461,7 +460,7 @@ padding-top adalah properti CSS yang digunakan untuk menentukan jumlah ruang pol
 Button{Padding-top:100px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-06-00-12-35-48_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-06-00-12-35-48_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 padding-top dalam CSS digunakan untuk menambahkan ruang di bagian atas konten dalam sebuah elemen HTML, antara konten dan batas atas elemen tersebut.
 ___
@@ -473,7 +472,7 @@ padding-bottom adalah properti CSS yang digunakan untuk menambahkan ruang polos 
 Button{Padding-bottom:100px;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-06-00-12-53-20_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-06-00-12-53-20_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Dengan menggunakan property padding-bottom, Anda dapat mengontrol seberapa jauh konten di dalam elemen tersebut berjarak dari batas bawahnya.
 ___
@@ -485,7 +484,7 @@ Padding-left adalah bagian dari model kotak (box model) di CSS yang mengacu pada
 Button{padding-left:100px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-06-00-13-24-68_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-06-00-13-24-68_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Padding-left adalah jarak antara tepi kiri dari sebuah elemen dan konten di dalamnya dalam model kotak CSS. Ini memungkinkan penambahan ruang di sebelah kiri elemen tanpa memengaruhi lebar total elemen tersebut.
 ___
@@ -497,7 +496,7 @@ padding-right adalah properti CSS yang digunakan untuk menentukan jumlah ruang k
 Button{padding-right:100px;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-06-00-13-08-22_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-06-00-13-08-22_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 padding-right adalah properti CSS yang digunakan untuk menentukan jumlah ruang kosong di sebelah kanan elemen HTML, yang berguna untuk menciptakan tata letak yang lebih baik dan meningkatkan tampilan desain yang bagus dihalaman web.
 ___
@@ -511,7 +510,7 @@ margin-top adalah properti CSS yang digunakan untuk mengatur jarak antara tepi a
 Button{Margin-top:100px;}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-05-23-51-52-32_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-05-23-51-52-32_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 margin-top adalah properti yang digunakan untuk mengatur jarak antara tepi atas (atas) dari suatu elemen dan elemen sekitarnya dalam model kotak (box model).
 ___
@@ -524,7 +523,7 @@ margin-bottom adalah properti CSS yang digunakan untuk menentukan jarak antara b
 Button{Margin-bottom:100px;}
 ```
 ### Hasil
-![ImG](Screenshot_2024-03-05-23-55-49-15_e3c1f266f17b29c7b40472751f031275.jpg)
+![ImG](Asset%20CSS/Screenshot_2024-03-05-23-55-49-15_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 margin-bottom adalah properti CSS yang digunakan untuk menentukan jarak antara bagian bawah dari sebuah elemen dengan elemen-elemen di sekitarnya dalam model kotak (box model).
 ___
@@ -536,7 +535,7 @@ margin-left adalah properti CSS yang digunakan untuk menentukan jarak (spasi) da
 Button{Margin-left:100px;}
 ```
 ### Hasil
-![IMG](Screenshot_2024-03-05-23-57-31-84_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-03-05-23-57-31-84_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 margin-left adalah properti CSS yang digunakan untuk menentukan jarak dari sisi kiri sebuah elemen terhadap elemen sebelumnya dalam tata letak halaman web. Semakin besar nilai margin-left, semakin besar pula jaraknya dari sisi kiri elemen sebelumnya.
 ___
@@ -548,7 +547,7 @@ margin-right adalah properti CSS yang digunakan untuk menentukan jarak (margin) 
 Button{Margin-right:100px;}
 ```
 ### Hasil
-![img](Screenshot_2024-03-05-23-57-48-39_e3c1f266f17b29c7b40472751f031275.jpg)
+![img](Asset%20CSS/Screenshot_2024-03-05-23-57-48-39_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 margin-right adalah properti CSS yang digunakan untuk mengatur jarak antara tepi kanan suatu elemen dengan elemen lain di sekitarnya dalam model kotak CSS.
 ___
@@ -633,9 +632,9 @@ button{
     }
 ```
 ### Hasil Before
-![IMG](Screenshot_2024-04-27-16-08-13-83_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-27-16-08-13-83_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Hasil After
-![IMG](IMG_20240427_161136.jpg)
+![IMG](Asset%20CSS/IMG_20240427_161136.jpg)
 ### Kesimpulan
 Kode program tersebut menambahkan efek transisi yang ditunda, mengatur lebar tombol relatif terhadap tinggi layar, memberikan margin kiri, dan mengubah warna latar belakang tombol saat digerakkan. Ini meningkatkan interaktivitas dan estetika tombol pada halaman web.
 ___
@@ -664,9 +663,9 @@ border-radius: 100px 100px;
       }
       ```
 ### hasil before
-![IMG](IMG_20240427_221338.jpg)
+![IMG](Asset%20CSS/IMG_20240427_221338.jpg)
 ### hasil after
-![IMG](IMG_20240427_221351.jpg)
+![IMG](Asset%20CSS/IMG_20240427_221351.jpg)
 ### Kesimpulan
 kode tersebut mengatur tampilan dan perilaku sebuah tombol di halaman web, dengan mengontrol warna, ukuran, jarak, jenis font, dan efek transisi saat interaksi pengguna.
 ___
@@ -698,9 +697,9 @@ color: blue;
       }
 ```
 ### hasil before
-![IMG](IMG_20240427_221338.jpg)
+![IMG](Asset%20CSS/IMG_20240427_221338.jpg)
 ### Hasil after
-![IMG](Screenshot_2024-04-27-23-27-37-12_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-27-23-27-37-12_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode tersebut mendefinisikan gaya untuk tombol dengan menggunakan berbagai properti CSS untuk mengatur tampilan dan perilaku saat interaksi pengguna. Saat tombol dihover, warna latar belakangnya akan berubah menjadi kuning dan lebarnya akan menyusut menjadi 50 piksel.
 ___
@@ -729,9 +728,9 @@ color: blue;
       }
 ```
 ### hasil before
-![Img](IMG_20240427_221338.jpg)
+![Img](Asset%20CSS/IMG_20240427_221338.jpg)
 ### hasil after
-![Img](Screenshot_2024-04-27-23-34-04-26_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-27-23-34-04-26_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode tersebut mendefinisikan gaya untuk tombol dengan menggunakan berbagai properti CSS untuk mengatur tampilan dan perilaku saat interaksi pengguna. Saat tombol dihover, lebarnya akan diperbesar menjadi 200 piksel tanpa mengubah properti lainnya. Peralihan perubahan lebar tombol memiliki durasi 5,5 detik, dimulai setelah jeda 1,5 detik, dengan pola percepatan dan perlambatan yang halus
 ___
@@ -791,9 +790,9 @@ button:hover{background-color:blue;
 ```
 
 ### Hasil before
-![Img](Screenshot_2024-04-24-18-35-14-28_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-24-18-35-14-28_e3c1f266f17b29c7b40472751f031275.jpg)
 ### hasil after
-![Img](IMG_20240427_170206.jpg)
+![Img](Asset%20CSS/IMG_20240427_170206.jpg)
 ___
 # Materi Transfrom
 ## Transform-Scale
@@ -822,9 +821,9 @@ button {
       }
 ```
 ### hasil before
-![Img](Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Hasil after
-![Img](Screenshot_2024-04-27-23-58-09-03_99c04817c0de5652397fc8b56c3b3817.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-27-23-58-09-03_99c04817c0de5652397fc8b56c3b3817.jpg)
 ### Kesimpulan
 Kode tersebut mendefinisikan gaya untuk tombol dengan menggunakan berbagai properti CSS untuk mengatur tampilan dan perilaku saat interaksi pengguna. Saat tombol ditekan, ukuran tombol akan membesar dan memiliki efek visual penekanan yang menarik.
 ___
@@ -855,9 +854,9 @@ button {
       }
 ```
 ### hasil before
-![img](Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
+![img](Asset%20CSS/Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Hasil After
-![IMG](Screenshot_2024-04-28-11-52-55-38_99c04817c0de5652397fc8b56c3b3817.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-28-11-52-55-38_99c04817c0de5652397fc8b56c3b3817.jpg)
 ### Kesimpulan
 Kode tersebut mendefinisikan gaya untuk tombol dengan menggunakan berbagai properti CSS untuk mengatur tampilan dan perilaku saat interaksi pengguna. Saat tombol ditekan, ukuran tombol akan membesar dan lebarnya akan menyusut, menciptakan efek visual penekanan yang menarik.
 ___
@@ -888,7 +887,7 @@ button {
       }
 ```
 ### hasil
-![IMG](IMG_20240428_174317.jpg)
+![IMG](Asset%20CSS/IMG_20240428_174317.jpg)
 ### Kesimpulan
 Kode tersebut mendefinisikan gaya untuk tombol dengan menggunakan berbagai properti CSS untuk mengatur tampilan dan perilaku saat interaksi pengguna. Saat tombol dihover, tombol akan memperbesar lebarnya dan melakukan rotasi sebesar 250 derajat, menciptakan efek visual menarik pada tombol.
 ___
@@ -919,9 +918,9 @@ button {
       }
 ```
 ### hasil before
-![IMG](Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
 ### hasil after
-![Img](IMG_20240427_235037.jpg)
+![Img](Asset%20CSS/IMG_20240427_235037.jpg)
 ### Kesimpulan
 Kode tersebut mendefinisikan gaya untuk tombol dengan menggunakan berbagai properti CSS untuk mengatur tampilan dan perilaku saat interaksi pengguna. Saat tombol ditekan, tombol akan membesar dan miring ke samping, menciptakan efek visual menarik pada tombol.
 ___
@@ -952,9 +951,9 @@ button {
       }
 ```
 ### hasil before
-![Img](Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-27-23-51-11-57_e3c1f266f17b29c7b40472751f031275.jpg)
 ### hasil after
-![Img](IMG_20240427_235048.jpg)
+![Img](Asset%20CSS/IMG_20240427_235048.jpg)
 ### Kesimpulan
 Kode tersebut menghasilkan tampilan tombol dengan properti-properti yang ditetapkan, dan memberikan efek membesar dan miring saat tombol ditekan
 ___
@@ -985,9 +984,9 @@ button {
       }
 ```
 ### hasil before
-![IMG](Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275.jpg)
 ### hasil after
-![Img](Screenshot_2024-04-28-17-52-06-91_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-17-52-06-91_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode tersebut menghasilkan tampilan tombol dengan properti-properti yang ditetapkan, dan memberikan efek perubahan lebar serta pergeseran saat tombol dihover.
 ___
@@ -1018,9 +1017,9 @@ button {
       }
 ```
 ### hasil before
-![Img](Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-17-42-38-76_e3c1f266f17b29c7b40472751f031275.jpg)
 ### hasil After
-![Img](Screenshot_2024-04-28-17-50-40-50_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-17-50-40-50_e3c1f266f17b29c7b40472751f031275.jpg)
 
 ### Kesimpulan
 Meskipun kode memiliki kesalahan sintaks dalam penggunaan properti matrix() untuk transformasi, tujuannya adalah untuk memberikan efek perubahan ukuran dan bentuk tombol saat dihover. Untuk mencapai hasil yang diinginkan, properti transformasi yang lebih tepat seperti scale() dan translate() dapat digunakan.
@@ -1049,7 +1048,7 @@ ___
 </html>
 ```
 ### Hasil
-![IMG](Screenshot_2024-04-28-12-17-09-19_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-28-12-17-09-19_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 `display: flex;` mengaktifkan model layout Flexbox di sebuah container CSS, yang memungkinkan pengaturan tata letak yang fleksibel untuk elemen-elemen di dalamnya.
 ## flex-direction
@@ -1089,7 +1088,7 @@ ___
 ```
 
 ### hasil
-![Img](Screenshot_2024-04-28-20-37-20-09_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-20-37-20-09_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode program tersebut membuat sebuah halaman web dengan background hijau, container dengan lebar 500px dan tinggi 250px. Di dalam container, terdapat sebuah elemen div dengan background merah, lebar 100px, dan tinggi 100px. Pengaturan tersebut dicapai menggunakan CSS Flexbox.
 ___
@@ -1132,7 +1131,7 @@ Penjelasan: Kode program tersebut hampir sama dengan sebelumnya, namun ada tamba
 </html>
 ```
 ### hasil
-![IMG](Screenshot_2024-04-28-20-41-59-49_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-28-20-41-59-49_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode program tersebut menghasilkan halaman web dengan background hijau, container dengan lebar 500px dan tinggi 250px. Di dalam container, terdapat sebuah elemen div dengan background merah, lebar 100px, dan tinggi 100px, yang terletak secara vertikal terpusat di tengah container. Ini juga menggunakan CSS Flexbox untuk pengaturan tata letaknya.
 ___
@@ -1175,7 +1174,7 @@ Penjelasan: Kode program tersebut hampir sama dengan sebelumnya, namun ada tamba
 </html>
 ```
 ### hasil
-![Img](Screenshot_2024-04-28-20-38-09-76_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-20-38-09-76_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kode program tersebut menghasilkan halaman web dengan background hijau, container dengan lebar 500px dan tinggi 250px. Di dalam container, terdapat sebuah elemen div dengan background merah, lebar 100px, dan tinggi 100px, yang terletak secara horizontal terpusat di tengah container. Ini juga menggunakan CSS Flexbox untuk pengaturan tata letaknya.
 ____
@@ -1266,7 +1265,7 @@ img{
 </html>
 ```
 ### hasil
-![Img](Screenshot_2024-04-28-20-46-16-76_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-20-46-16-76_e3c1f266f17b29c7b40472751f031275.jpg)
 ___
 # Materi Position
 ___
@@ -1317,7 +1316,7 @@ ___
 </html>
 ```
 ### hasil
-![Img](Screenshot_2024-04-28-19-11-27-61_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-19-11-27-61_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 penggunaan CSS position untuk menggeser posisi elemen-1 ke bawah sejauh 50 piksel dari posisi normalnya. Elemen-2 tetap berada pada posisi normalnya.
 ___
@@ -1368,7 +1367,7 @@ ___
 </html>
 ```
 ### hasil
-![IMG](Screenshot_2024-04-28-19-12-12-71_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-28-19-12-12-71_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 elemen dengan kelas "item-1" akan memiliki tata letak fleksibel, latar belakang biru, lebar dan tinggi masing-masing 95 piksel, dan akan ditempatkan secara absolut dengan jarak 50 piksel dari atas kontainer terdekat yang memiliki posisi relatif atau absolut
 ___
@@ -1419,7 +1418,7 @@ ___
 </html>
 ```
 ### hasil
-![Img](Screenshot_2024-04-28-19-12-57-59_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-04-28-19-12-57-59_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 elemen dengan kelas "item-1" akan memiliki tata letak fleksibel, latar belakang biru, lebar dan tinggi masing-masing 95 piksel, dan akan diposisikan secara tetap pada posisi 50 piksel dari atas viewport.
 ___
@@ -1553,4 +1552,4 @@ mengapit seluruh isi halaman.
 </html>
 ```
 ### Hasil 
-![IMG](Screenshot_2024-04-28-16-36-47-49_e3c1f266f17b29c7b40472751f031275.jpg)
+![IMG](Asset%20CSS/Screenshot_2024-04-28-16-36-47-49_e3c1f266f17b29c7b40472751f031275.jpg)
