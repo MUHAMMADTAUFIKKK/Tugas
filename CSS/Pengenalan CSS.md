@@ -1180,7 +1180,7 @@ Kode program tersebut menghasilkan halaman web dengan background hijau, containe
 ____
 ## STUDI KASUS
 ### Deskripsi
-- Sebuah judul halaman dengan tulisan "Selamat Datang di Web Jordan".
+- Sebuah judul halaman dengan tulisan "Selamat Datang di Web Taufik".
 Sebuah tombol dengan teks "Klik disini".
 - Sebuah gambar yang ditampilkan dalam bentuk lingkaran dengan ukuran 250x250 piksel.
 - Penggunaan properti CSS untuk mengatur tampilan elemen-elemen tersebut, seperti warna latar belakang, warna teks, dan jarak antar elemen.
@@ -1248,7 +1248,7 @@ img{
     </h1>
     
     <h1 class="item box-item-2">
-    di <b>Web Jordan</b>
+    di <b>Web Taufik</b>
     </h1>
     <div class="item box-item-3">
     <button class="J">Klik disini</button>
