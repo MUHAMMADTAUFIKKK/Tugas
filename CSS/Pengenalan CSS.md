@@ -177,7 +177,7 @@ ___
 p{letter-spacing:20px}
 ```
 ### Hasil
-![Img](Screenshot_2024-03-04-12-18-49-36_e3c1f266f17b29c7b40472751f031275.jpg)
+![Img](Asset%20CSS/Screenshot_2024-03-04-12-18-49-36_e3c1f266f17b29c7b40472751f031275.jpg)
 ### Kesimpulan
 Kesimpulannya, kode CSS ini akan membuat jarak antara baris dalam elemen paragraf menjadi 20 piksel, menciptakan ruang horizontal yang lebih besar di antara setiap baris teks.
 ___
