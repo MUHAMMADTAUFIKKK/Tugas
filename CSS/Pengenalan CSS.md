@@ -59,7 +59,7 @@ ___
 button{background-color: red;}
 ```
 ### Hasil
-![gambar](Asset%20CSS/img_color.jpg)
+![gambar](Asset%20CSS/IMG_color.jpg)
 
 ### Penjelasan
 ` button{background-color: red;} `merupakan aturan CSS yang menetapkan warna latar belakang (background-color) menjadi merah untuk semua elemen <`button`> dalam dokumen HTML yang terhubung dengan stylesheet tersebut. Ini berarti semua tombol dalam dokumen HTML akan memiliki latar belakang merah ketika aturan CSS ini diterapkan
@@ -507,7 +507,21 @@ ___
 Font-style: italic; adalah properti CSS yang digunakan untuk mengatur gaya teks menjadi miring (italic). Ini berarti teks yang diberikan akan miring, seperti yang sering kita lihat dalam gaya teks untuk menekankan kata-kata atau membuat teks menonjol.
 ### Kode program
 ```css
-p{Font-Style:italic;}
+<!DOCKTYPE html>
+<html>
+  <head>
+    <title>Percobaan Pertama CSS</title>
+    <style>
+    p
+    {Font-Style:italic;
+    color:red;
+    }
+    </style>
+  </head>
+  <body>
+    <p>Welcome CSS!</p>
+  </body>
+</html>
 ```
 ### Hasil
 ![Img](Asset%20CSS/Screenshot_2024-03-04-13-34-49-67_e3c1f266f17b29c7b40472751f031275.jpg)
