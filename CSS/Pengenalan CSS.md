@@ -973,7 +973,7 @@ Pernyataan kode program tersebut menggunakan pseudo-class :hover untuk menargetk
 ![hover](Asset%20CSS/hover2.png)
 
 ### Kesimpulan
-Program tersebut akan mengubah warna teks tombol menjadi magenta saat kursor diarahkan ke atas (hover) pada tombol tersebut. Ini memberikan umpan balik visual kepada pengguna bahwa tombol tersebut bisa diklik atau interaktif. Misalnya, jika Anda memiliki tombol HTML seperti `<button>Klik!</button>`, saat kursor diarahkan ke atas tombol tersebut, warna teksnya akan berubah menjadi magenta.
+Program tersebut akan mengubah warna teks tombol saat kursor diarahkan ke atas (hover) pada tombol tersebut. Ini memberikan umpan balik visual kepada pengguna bahwa tombol tersebut bisa diklik atau interaktif. Misalnya, jika Anda memiliki tombol HTML seperti `<button>Klik!</button>`, saat kursor diarahkan ke atas tombol tersebut, warna teksnya akan berubah menjadi magenta.
 
 ---
 ## Active
@@ -1007,7 +1007,7 @@ Pernyataan tersebut menggunakan pseudo-class :active untuk menargetkan perilaku 
 ![img](Asset%20CSS/active1.png)
 
 ### Kesimpulan
-Program tersebut akan mengubah warna teks tombol menjadi biru saat tombol tersebut sedang dalam keadaan aktif, yaitu saat tombol ditekan oleh pengguna. Ini memberikan umpan balik visual kepada pengguna bahwa tindakan yang mereka lakukan sedang berlangsung. Misalnya, jika Anda memiliki tombol HTML seperti `<button>Klik!</button>`, saat tombol tersebut ditekan oleh pengguna, warna teksnya akan berubah menjadi biru.
+Program tersebut akan mengubah warna teks saat tombol tersebut sedang dalam keadaan aktif, yaitu saat tombol ditekan oleh pengguna. Ini memberikan umpan balik visual kepada pengguna bahwa tindakan yang mereka lakukan sedang berlangsung. Misalnya, jika Anda memiliki tombol HTML seperti `<button>Klik!</button>`, saat tombol tersebut ditekan oleh pengguna, warna teksnya akan berubah menjadi biru.
 
 ---
 ## Visited
@@ -1039,7 +1039,7 @@ Pernyataan tersebut menggunakan pseudo-class : visited untuk menargetkan perilak
 ![vsited](Asset%20CSS/visited.png)
 
 ### Kesimpulan
-Program tersebut akan mengubah warna teks tombol menjadi hijau saat tombol tersebut telah dikunjungi oleh pengguna. Ini memberikan umpan balik visual kepada pengguna bahwa mereka telah mengunjungi tombol tersebut. Misalnya, jika Anda memiliki tombol HTML seperti <`button`>Klik!<`\button`> yang telah dikunjungi oleh pengguna sebelumnya, warna teksnya akan berubah menjadi hijau.
+Program tersebut akan mengubah warna teks saat tombol tersebut telah dikunjungi oleh pengguna. Ini memberikan umpan balik visual kepada pengguna bahwa mereka telah mengunjungi tombol tersebut. Misalnya, jika Anda memiliki tombol HTML seperti <`button`>Klik!<`\button`> yang telah dikunjungi oleh pengguna sebelumnya, warna teksnya akan berubah menjadi hijau.
 ___
 # Materi Transition
 ___
