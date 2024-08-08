@@ -450,6 +450,7 @@ drop table belajar;
 ![gmbar](Asset/Screenshot_2024-02-25-21-51-24-30_84d3000e3f4017145260f7618db1d683.jpg)
 ### Analisis
 Kode berikut dapat menghapus sebuah tabel
-Dengan perintah **drop table [nama_tabel]**.
+Dengan perintah **drop table 
+[nama_tabel]**.
 ### Kesimpulan
 Kode "drop table belajar;" merupakan perintah SQL yang digunakan untuk menghapus tabel yang disebut "belajar" dari basis data. Hal ini akan menghapus seluruh struktur tabel beserta data yang terkandung di dalamnya secara permanen.

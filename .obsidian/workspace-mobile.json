@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basis data/CATATAN BASIS DATA.md",
+                "file": "Projek Dart/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Basis data/CATATAN BASIS DATA.md",
+            "file": "Projek Dart/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Basis data/CATATAN BASIS DATA.md",
+            "file": "Projek Dart/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Basis data/CATATAN BASIS DATA.md"
+            "file": "Projek Dart/Untitled.md"
           }
         }
       }
@@ -145,20 +145,36 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "882b67bd4eb8434d",
+  "active": "3dc619e104fc8c9e",
   "lastOpenFiles": [
+    "project1/README.md",
+    "Projek Dart/Untitled.md",
+    "Basis data/perulangan.md",
+    "Projek Dart",
+    "Basis data/Catatan Praktikum 5.md",
     "PRAKTIKUM 5/Catatan Praktikum 5.md",
-    "HTML/Catatan HTML.md",
+    "PRAKTIKUM 5/Aset/struktur.jpg",
+    "Screenshot_2024-08-01-13-07-27-88_84d3000e3f4017145260f7618db1d683.jpg",
+    "Basis data/Alter.md",
+    "HTML/perulangan-1.md",
+    "Basis data/CATATAN BASIS DATA.md",
+    "Materi PHP/PHP.md",
+    "Basis data/CATATAN BASIS DATA.pdf",
+    "CSS/Bootstrap/Bootstrap Framework.md",
+    "CSS/Css Responsive/CSS Responsive.md",
+    "CSS/Css Responsive/CSS Responsive.pdf",
+    "Materi PHP/Relasi & Groupby having.md",
     "CSS/Pengenalan CSS.md",
+    "CSS/Pengenalan CSS.pdf",
+    "Materi CSS Icon/Materi CSS Icon(Font awesome).md",
+    "Screenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275 1 1.jpg",
+    "Screenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275 1.jpg",
+    "HTML/Catatan HTML.md",
     "HTML/Deskripsi Html,CSS,Java script.md",
     "HTML/Pengenalan Html.md",
     "Basis data/Select lanjutan.md",
     "HTML/Kesimpulan video.md",
     "HTML/Pengenalan OBSIDIAN.md",
-    "Basis data/Alter.md",
-    "project1/README.md",
-    "Materi PHP/Relasi & Groupby having.md",
-    "Materi PHP/PHP.md",
     "Materi PHP/PHP MYSQL.md",
     "Materi PHP/asetPHP/Jumlah mobil.jpg",
     "Materi PHP/asetPHP/Tabel.jpg",
@@ -166,32 +182,16 @@
     "Materi PHP/asetPHP/Jumlah_pemasukan.jpg",
     "Materi PHP/asetPHP/10.jpg",
     "Materi PHP/asetPHP/Jumlah_pendapatan.jpg",
-    "Materi PHP/asetPHP/8.jpg",
-    "Materi PHP/asetPHP/Ratarata_pemasukan.jpg",
-    "Materi PHP/asetPHP/Jumlah_mobil.jpg",
-    "Materi PHP/asetPHP/Jumlah_warna.jpg",
     "Materi PHP/asetPHP",
     "Basis data/Praktikum GROUP BY HAVING.md",
     "Basis data/Untitled.md",
-    "Materi CSS Icon/Materi CSS Icon(Font awesome).md",
     "Materi CSS Icon/Materi CSS Icon(Font awesome).pdf",
     "Basis data/Praktikum 5.md",
     "Materi PHP/Pengenalan PHP.md",
     "asetPHP/Jumlah.md",
-    "tutorial9.png.md",
-    "tutorial8.png.md",
-    "tutorial6.png.md",
-    "tutorial2.png.md",
-    "Asset/Screenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275.md",
-    "Asset/eksplorasi.png.md",
-    "eksplorasi.png.md",
     "asetPHP",
     "Materi CSS Icon/asset",
     "AssetCSS",
-    "Basis data/asetPHP",
-    "Untitled.loom",
-    "Materi PHP",
-    "Materi PHP",
-    "CSS/Bootstrap/assets"
+    "Basis data/asetPHP"
   ]
 }

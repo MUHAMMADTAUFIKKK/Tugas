@@ -18,7 +18,7 @@ Icon yang memiliki properti fas adalah ikon solid, yang artinya memiliki penampi
 ```
 
 Contoh hasil:
-![](Screenshot_2024-04-23-00-26-41-58_e3c1f266f17b29c7b40472751f031275.jpg)
+![](Asset/Screenshot_2024-04-23-00-26-41-58_e3c1f266f17b29c7b40472751f031275.jpg)
 
  Regular Icon (far):
 Icon yang memiliki properti far adalah ikon regular, yang artinya memiliki penampilan garis tepi (outline). Berikut adalah contoh penggunaannya:
@@ -27,21 +27,10 @@ Icon yang memiliki properti far adalah ikon regular, yang artinya memiliki penam
 ```
 
 Contoh Hasil:
-![](Asset/icon far.jpeg)
-![img](Asset/icon fasfar.jpg)
-![ast](Screenshot_2024-04-23-00-28-04-19_e3c1f266f17b29c7b40472751f031275.jpg)
+![ast](Asset/Screenshot_2024-04-23-00-28-04-19_e3c1f266f17b29c7b40472751f031275.jpg)
 
-Brand Icon (fab):
-Icon yang memiliki properti fab adalah ikon merek, yang artinya menampilkan logo merek seperti Facebook, Twitter, dll. Berikut adalah contoh penggunaannya: 
 
-```html
-`<i class="fab fa-facebook "></i>`
-```
-
-Contoh Hasil:
-![](Screenshot_2024-04-23-00-28-14-93_e3c1f266f17b29c7b40472751f031275.jpg)
-
-(`fa-spin`) 
+Spinn (fa-spin) :
 di Font Awesome digunakan untuk memberi ikon efek putaran (spin) yang berputar secara terus-menerus. Ini berguna ketika Anda ingin menunjukkan bahwa suatu proses sedang berlangsung atau ketika Anda hanya ingin menambahkan sedikit animasi ke halaman web Anda. Misalnya, Anda dapat menggunakan `fa-spin` pada ikon roda gigi untuk menunjukkan bahwa aplikasi sedang memproses atau memuat data.
 
 Saat Anda menambahkan kelas `fa-spin` ke ikon Font Awesome, itu akan mulai berputar dalam siklus tanpa akhir. Anda dapat menggunakan ini untuk memberikan tanda visual kepada pengguna bahwa sesuatu sedang terjadi di latar belakang atau untuk menarik perhatian mereka pada elemen tertentu dalam halaman web Anda. berikut contoh penggunaannya:
@@ -52,10 +41,10 @@ Saat Anda menambahkan kelas `fa-spin` ke ikon Font Awesome, itu akan mulai berpu
 Contoh Hasilnya:
 
 Before
-![](Screenshot_2024-04-23-00-28-04-19_e3c1f266f17b29c7b40472751f031275.jpg)
+![](Asset/Screenshot_2024-04-23-00-28-04-19_e3c1f266f17b29c7b40472751f031275.jpg)
 
 After
-![](IMG-20240428-WA0079.jpg)
+![](Asset/IMG-20240428-WA0079.jpg)
 Kode Program
 ```html
 <!DOCTYPE html>
@@ -106,7 +95,8 @@ margin-right: 10px;
 ```
 
 Contoh Hasil
-![img](IMG-20240428-WA0080.jpg)
+![img](Asset/IMG-20240428-WA0080.jpg)
+
 ### Cara menggunakan secara online dan offline
 #### Secara online
 1. Persiapkan Font Awesome:
@@ -146,38 +136,38 @@ https://fontawesome.com/v4/icons
 
 #### Secara Offline
 1. pertama-tama kita membuka web browser
-    ![](IMG-20240428-WA0064.jpg)
+    ![](Asset/IMG-20240428-WA0064.jpg)
 
 2.  kemudian kita searching ke browser pencarian download font awesome 5, kemudian kita scroll kebawah klik yang berada di baris kedua.
-    ![](IMG-20240428-WA0075.jpg)
+    ![](Asset/IMG-20240428-WA0075.jpg)
 
 3. Lalu kita pilih version yang berada di samping kanan kemudian kita pilih yang bisa di gunakan oleh device anda seperti contoh saya yang menggunakan version 5
-	![](IMG-20240428-WA0074.jpg)
+	![](Asset/IMG-20240428-WA0074.jpg)
  
 
 4. kemudian kita download yang free for web 
-    ![](IMG-20240428-WA0073.jpg)
+    ![](asset/IMG-20240428-WA0073.jpg)
 
 5. setelah selesai di download kita Extrack file yang telah kita download
-    ![](IMG-20240428-WA0072.jpg)
+    ![](Asset/IMG-20240428-WA0072.jpg)
 
 6. Kemudian kita copy file yang telah kita extrack lalu kita memasukan file tersebut ke file teks editor kita
-    ![](IMG-20240428-WA0070.jpg)
+    ![](Asset/IMG-20240428-WA0070.jpg)
 
 7. Setelah kita telah memasukkan file font awesome kita jadinya akan seperti ini
-    ![](IMG-20240428-WA0071.jpg)
+    ![](Asset/IMG-20240428-WA0071.jpg)
 
 8. kemudian kita buka teks editor lalu kita buat struktur html setelah itu kita memanggil font awesome dengan menggunakan ` <link rel="stylesheet" href=""` lalu kita masukan file font awesome kita.
-    ![](IMG-20240428-WA0066.jpg)
+    ![](Asset/IMG-20240428-WA0066.jpg)
 
 9. setelah itu kita di pilih css seperti gambar di bawah
-    ![](IMG-20240428-WA0065.jpg)
+    ![](Asset/IMG-20240428-WA0065.jpg)
 
 10. lalu kemudian kita pilih # all.min.css
-    ![](IMG-20240428-WA0069.jpg)
+    ![](Asset/IMG-20240428-WA0069.jpg)
 
 11. setelah itu kita telah bisa memanggil icon yang ingin kita pilih dengan menggunakan perintah `<i class="fas fa-home"></i>`
-    ![](IMG-20240428-WA0067.jpg)
+    ![](Asset/IMG-20240428-WA0067.jpg)
 
 12. selesai
 
@@ -213,8 +203,7 @@ https://fontawesome.com/v4/icons
 ```
 
 #### Hasil
-![[tutorial11.png]]
-![](IMG-20240428-WA0068.jpg)
+![](Asset/IMG-20240428-WA0068.jpg)
 ### Implementasi
 ```html
 <!DOCTYPE html>
@@ -511,6 +500,6 @@ Kode CSS di atas mengatur gaya dan tata letak untuk elemen-elemen HTML dalam hal
    ```
    Memberikan gaya khusus untuk semua elemen gambar (img) dalam halaman. Di sini, gambar diberi margin atas sebesar 100px dan margin kanan sebesar 50px. Selain itu, gambar diberi border dengan warna solid kuning sebesar 5px.
 #### Hasil
-![](IMG-20240428-WA0076.jpg)
+![](Asset/IMG-20240428-WA0076.jpg)
 
 
