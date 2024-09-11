@@ -13,7 +13,7 @@ SELECT COUNT(NIP) AS JumlahPegawai, COUNT(jabatan) AS JumlahJabatan FROM pegawai
 ```
 
 ## Hasil
-![hasil](19.jpg)
+![hasil](19.png)
 
 ## Analisis 
 - `SELECT` : Untuk memilih kolom apa saja yang ingin dipilih (untuk dihitung)
@@ -40,7 +40,7 @@ select COUNT(NIP) AS jumlahpegawai
 
 ## Hasil
 
-![Praktikum](2.jpg)
+![Praktikum](2.png)
 
 ## Analisis 
 
@@ -64,7 +64,7 @@ SELECT Nocab, COUNT(NIP) AS Jumlah_pegawai
 
 ## Hasil
 
-![Praktikum](3.jpg)
+![Praktikum](3.png)
 
 ## Analisis 
 
@@ -89,7 +89,7 @@ SELECT Nocab, COUNT(NIP) AS Jumlah_pegawai
 
 ## Hasil
 
-![Praktikum](4.jpg)
+![Praktikum](4.png)
 
 ## Analisis 
 
@@ -168,7 +168,7 @@ SELECT noCab, SUM(Gaji) AS Total_Gaji from pegawai GROUP BY noCab HAVING SUM(Gaj
 ```
 ## Hasil
 
-![hasil](8.jpg)
+![hasil](8.png)
 ## Analisis
 ==select== = untuk memilih kolom mana saja yang dipilih untuk di tampilkan atau di jumlah.
 ==noCab== = nama kolom yang dipilih untuk ditampilkan.
@@ -190,7 +190,7 @@ ___
 SELECT AVG(Gaji) AS rata_rata from pegawai;
 ```
 ## Hasil
-![9.](9.jpg)
+![9.](9.png)
 ## Analisis
 ==Select== = untuk memilih kolom mana data Yang dipilih untuk ditampilkan.
 ==AVG (Gaji)== = untuk menghitung rata-rata dari data yang ada Pada kolom Yang dipilih. 
@@ -208,7 +208,7 @@ ___
 SELECT AVG(Gaji) AS GajiRataManager FROM pegawai WHERE Jabatan = "Manager";
 ```
 ## Hasil
-![10.](10.jpg)
+![10.](10.png)
 ## Analisis
 - ==SELECT== = untuk memilih kolom mana saja yang dipilih untuk ditampilkan.
 - ==AVG (Gaji)== = untuk menghitung rata-rata dari data yang ada pada kolom Yang dipilih. Gaji adalah nama kolom Yang dipilih untuk dihitung rata-ratanya.
